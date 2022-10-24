@@ -3,6 +3,14 @@
 </div>
 ### Hi there 👋
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/matheus-hilmann-383181232/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/hxlmvnn/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
 <!--
 **matheushilmann/matheushilmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
