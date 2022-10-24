@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 <h1>👋 Olá, me chamo Matheus e estou iniciando na carreira como Dev. Front-end</h1>
 
 <div id="badges" align="center">
@@ -11,17 +12,9 @@
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
-<!--
-**matheushilmann/matheushilmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>:man_technologist:Sobre mim:</h1>
+<p>Tenho 23 anos, moro em São Paulo, SP. Estou estudando para me tornar um desenvolvedor</p>
+<li>:telescope: Desde criança, sempre me vi trabalhando com computador, seja com hardware ou software. A tecnologia sempre foi uma paixão, comecei pela faculdade de Análise de Sistemas, que foi onde tive meu primeiro contato com a programação, e desde então, sigo nela.</li>
+<li>:rocket: Já desenvolvi projetos utilizando as principais linguagens front-end, sendo elas JavaScript e ReactJS, onde sigo aprendendo e me desenvolvendo.</li>
+<li>:battery: No meu tempo livre, gosto de passar meu tempo com games e séries, gosto de praticar esportes como futebol e skate, que são outras paixões que carrego desde pequeno, e que me ajudam muito a recarregar minhas energias e esvaziar a mente.</li>
