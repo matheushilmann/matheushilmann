@@ -10,7 +10,8 @@
     </a>
     <a href="https://www.instagram.com/hxlmvnn/">
         <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
+    </a><br />
+    <img src="https://komarev.com/ghpvc/?username=matheushilmann&style=flat-square&color=blue" alt=""/>
     <h2>Seja Bem-vindo ao meu perfil!</h2>
 </div>
 
