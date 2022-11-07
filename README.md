@@ -39,7 +39,7 @@
       <img align="center" style="height: auto; width: 45%;" src="https://github-readme-stats.vercel.app/api?username=matheushilmann&show_icons=true&theme=dracula" />
     </a>
     <a href="https://github.com/matheushilmann/github-readme-stats" >
-      <img align="center" style="height: auto; width: 44%;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushilmann&layout=compact&theme=dracula" />
+      <img align="center" style="height: auto; width: 38%;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushilmann&layout=compact&theme=dracula" />
     </a>
 </div>
 
