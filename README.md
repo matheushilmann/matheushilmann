@@ -5,7 +5,7 @@
 <h1>👋 Olá, me chamo Matheus e estou iniciando na carreira como Dev. Front-end</h1>
 
 <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/matheus-hilmann-383181232/">
+    <a href="https://www.linkedin.com/in/matheushilmann/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.instagram.com/hxlmvnn/">
@@ -17,7 +17,7 @@
 
 <div>
     <h1>:man_technologist: Sobre mim:</h1>
-    <p>Tenho 23 anos, moro em São Paulo, SP e estou estudando para me tornar um desenvolvedor.</p>
+    <p>Tenho 25 anos, moro em São Paulo, SP e estou estudando para me tornar um desenvolvedor.</p>
     <li>:telescope: Desde criança, sempre me vi trabalhando com computador, seja com hardware ou software. A tecnologia sempre foi uma paixão, comecei pela faculdade de Análise de Sistemas, que foi onde tive meu primeiro contato com a programação, e desde então, sigo nela.</li>
     <li>:rocket: Já desenvolvi projetos utilizando as principais linguagens front-end, sendo elas JavaScript e ReactJS, onde sigo aprendendo e me desenvolvendo.</li>
     <li>:battery: No meu tempo livre, gosto de passar meu tempo com games e séries, gosto de praticar esportes como futebol e skate, que são outras paixões que carrego desde pequeno, e que me ajudam muito a recarregar minhas energias e esvaziar a mente.</li>
